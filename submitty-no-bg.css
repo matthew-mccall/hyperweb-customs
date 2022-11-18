@@ -1,5 +1,5 @@
 @document
 url-prefix("https://submitty.cs.rpi.edu")
 body {
-  background-image: var(--background-blue); !important
+  background: var(--background-blue); !important
 }
